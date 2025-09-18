@@ -1,0 +1,8 @@
+{
+    "java.jdt.ls.java.home": "/Users/nithinag/.local/share/mise/installs/java/21.0.2",
+    "java.import.gradle.java.home": "/Users/nithinag/.local/share/mise/installs/java/21.0.2",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/Users/nithinag/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/Users/nithinag/.local/share/mise/installs/python/3.12.11/bin/python"
+}
